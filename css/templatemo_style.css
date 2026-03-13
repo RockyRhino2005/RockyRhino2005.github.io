@@ -161,7 +161,7 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
 }
 /***** Home *****/
 #templatemo_home {
-    background: #154558 url(../images/home.jpg.avif) fixed;
+    background: #154558 url(../images/people.jpg.webp) fixed;
     /*background:  url(../images/.jpg) fixed;*/
     background-size: cover;
     min-height: 100vh;
